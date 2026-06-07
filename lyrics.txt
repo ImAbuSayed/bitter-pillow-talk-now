@@ -1,1 +1,92 @@
-[Clean lyric will be pushed here]
+content = """
+A heavy silence hanging in the air
+I feel the moonlight tangled in your hair
+Your fingertips are drawing on my skin
+This bitter pillow talk now is where we begin
+The coffee on the nightstand growing cold
+But there's a burning story left untold
+I trace the shadows dancing on your face
+And pull you closer in this quiet place
+A gentle whisper tearing through the dark
+A tiny ember turning to a spark
+We dance around the secrets in the room
+And let our shadows tangle in the gloom
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+All we need, all we need
+Don't let the morning wash the night away
+The clock is ticking softly on the wall
+I listen to the gentle midnight call
+Your breath is warm against my weary chest
+In this unspoken truth, I find my rest
+A gentle whisper tearing through the dark
+A tiny ember turning to a spark
+We dance around the secrets in the room
+And let our shadows tangle in the gloom
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+All we need, all we need
+Don't let the morning wash the night away
+So tell me all the things you cannot say
+Before the morning steals the night away
+The walls are listening to every sigh
+I watch the constellations in your eye
+I promise you, Sayed will hold you tight
+And be your shelter through the fading light
+Just keep your eyes on mine
+We are crossing over every hidden line
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+"""
+with open("lyric-raw.txt", "w") as f:
+f.write.. content..
+A heavy silence hanging in the air
+I feel the moonlight tangled in your hair
+Your fingertips are drawing on my skin
+This bitter pillow talk now is where we begin
+The coffee on the nightstand growing cold
+But there's a burning story left untold
+I trace the shadows dancing on your face
+And pull you closer in this quiet place
+A gentle whisper tearing through the dark
+A tiny ember turning to a spark
+We dance around the secrets in the room
+And let our shadows tangle in the gloom
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+All we need, all we need
+Don't let the morning wash the night away
+The clock is ticking softly on the wall
+I listen to the gentle midnight call
+Your breath is warm against my weary chest
+In this unspoken truth, I find my rest
+A gentle whisper tearing through the dark
+A tiny ember turning to a spark
+We dance around the secrets in the room
+And let our shadows tangle in the gloom
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+All we need, all we need
+Don't let the morning wash the night away
+So tell me all the things you cannot say
+Before the morning steals the night away
+The walls are listening to every sigh
+I watch the constellations in your eye
+I promise you, Sayed will hold you tight
+And be your shelter through the fading light
+Just keep your eyes on mine
+We are crossing over every hidden line
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
