@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bitter-pillow-talk-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Bitter Pillow Talk Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-pillow-talk-now/) |
+| **Get License** | [Request Licensing for Bitter Pillow Talk Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-pillow-talk-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> content = """
+> A heavy silence hanging in the air
+> I feel the moonlight tangled in your hair
+> Your fingertips are drawing on my skin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
