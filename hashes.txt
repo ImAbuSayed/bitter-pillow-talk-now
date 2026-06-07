@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bitter Pillow Talk Now
+
+This log tracks the cryptographic history and versioning for the song **Bitter Pillow Talk Now** (bitter-pillow-talk-now).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T14:20:20.722177 | `v1` | `e95f484969efea018ba94b4546905d18b9f37a8a7d236c8f9a450ca8f4074b61` | `c6261b5a721f3a3bfe9e16eed6b8d1bf06f2d5aabaa9112dd5325a8a751be87a` | `2026-06-07_bitter-pillow-talk-now-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

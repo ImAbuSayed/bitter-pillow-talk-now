@@ -1,0 +1,244 @@
+Title: Bitter Pillow Talk Now
+Clean Hash: e95f484969efea018ba94b4546905d18b9f37a8a7d236c8f9a450ca8f4074b61
+Raw Hash: c6261b5a721f3a3bfe9e16eed6b8d1bf06f2d5aabaa9112dd5325a8a751be87a
+Date: 2026-06-07T14:20:20.722177
+Version: 1
+----------------------------------------
+[RAW LYRICS]
+content = """[Hook]
+A heavy silence hanging in the air
+I feel the moonlight tangled in your hair
+Your fingertips are drawing on my skin
+This bitter pillow talk now is where we begin
+
+[Verse 1]
+The coffee on the nightstand growing cold
+But there's a burning story left untold
+I trace the shadows dancing on your face
+And pull you closer in this quiet place
+
+[Pre-Chorus]
+A gentle whisper tearing through the dark
+A tiny ember turning to a spark
+We dance around the secrets in the room
+And let our shadows tangle in the gloom
+
+[Chorus]
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+
+[Post-Chorus]
+[Echo]
+(All we need, all we need)
+Don't let the morning wash the night away
+
+[Verse 2]
+The clock is ticking softly on the wall
+I listen to the gentle midnight call
+Your breath is warm against my weary chest
+In this unspoken truth, I find my rest
+
+[Pre-Chorus 2]
+A gentle whisper tearing through the dark
+A tiny ember turning to a spark
+We dance around the secrets in the room
+And let our shadows tangle in the gloom
+
+[Chorus]
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+
+[Post-Chorus 2]
+[Echo]
+(All we need, all we need)
+Don't let the morning wash the night away
+
+[Bridge]
+So tell me all the things you cannot say
+Before the morning steals the night away
+The walls are listening to every sigh
+I watch the constellations in your eye
+I promise you, Saeed will hold you tight
+And be your shelter through the fading light
+
+[Spoken]
+(Just keep your eyes on mine)
+(We are crossing over every hidden line)
+
+[Final Chorus]
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+"""
+
+with open("lyric-raw.txt", "w") as f:
+    f.write(content)
+
+[Hook]
+A heavy silence hanging in the air
+I feel the moonlight tangled in your hair
+Your fingertips are drawing on my skin
+This bitter pillow talk now is where we begin
+
+[Verse 1]
+The coffee on the nightstand growing cold
+But there's a burning story left untold
+I trace the shadows dancing on your face
+And pull you closer in this quiet place
+
+[Pre-Chorus]
+A gentle whisper tearing through the dark
+A tiny ember turning to a spark
+We dance around the secrets in the room
+And let our shadows tangle in the gloom
+
+[Chorus]
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+
+[Post-Chorus]
+[Echo]
+(All we need, all we need)
+Don't let the morning wash the night away
+
+[Verse 2]
+The clock is ticking softly on the wall
+I listen to the gentle midnight call
+Your breath is warm against my weary chest
+In this unspoken truth, I find my rest
+
+[Pre-Chorus 2]
+A gentle whisper tearing through the dark
+A tiny ember turning to a spark
+We dance around the secrets in the room
+And let our shadows tangle in the gloom
+
+[Chorus]
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+
+[Post-Chorus 2]
+[Echo]
+(All we need, all we need)
+Don't let the morning wash the night away
+
+[Bridge]
+So tell me all the things you cannot say
+Before the morning steals the night away
+The walls are listening to every sigh
+I watch the constellations in your eye
+I promise you, Saeed will hold you tight
+And be your shelter through the fading light
+
+[Spoken]
+(Just keep your eyes on mine)
+(We are crossing over every hidden line)
+
+[Final Chorus]
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+--------------------
+[CLEAN LYRICS]
+content = """
+A heavy silence hanging in the air
+I feel the moonlight tangled in your hair
+Your fingertips are drawing on my skin
+This bitter pillow talk now is where we begin
+The coffee on the nightstand growing cold
+But there's a burning story left untold
+I trace the shadows dancing on your face
+And pull you closer in this quiet place
+A gentle whisper tearing through the dark
+A tiny ember turning to a spark
+We dance around the secrets in the room
+And let our shadows tangle in the gloom
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+All we need, all we need
+Don't let the morning wash the night away
+The clock is ticking softly on the wall
+I listen to the gentle midnight call
+Your breath is warm against my weary chest
+In this unspoken truth, I find my rest
+A gentle whisper tearing through the dark
+A tiny ember turning to a spark
+We dance around the secrets in the room
+And let our shadows tangle in the gloom
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+All we need, all we need
+Don't let the morning wash the night away
+So tell me all the things you cannot say
+Before the morning steals the night away
+The walls are listening to every sigh
+I watch the constellations in your eye
+I promise you, Sayed will hold you tight
+And be your shelter through the fading light
+Just keep your eyes on mine
+We are crossing over every hidden line
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+"""
+with open("lyric-raw.txt", "w") as f:
+f.write.. content..
+A heavy silence hanging in the air
+I feel the moonlight tangled in your hair
+Your fingertips are drawing on my skin
+This bitter pillow talk now is where we begin
+The coffee on the nightstand growing cold
+But there's a burning story left untold
+I trace the shadows dancing on your face
+And pull you closer in this quiet place
+A gentle whisper tearing through the dark
+A tiny ember turning to a spark
+We dance around the secrets in the room
+And let our shadows tangle in the gloom
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+All we need, all we need
+Don't let the morning wash the night away
+The clock is ticking softly on the wall
+I listen to the gentle midnight call
+Your breath is warm against my weary chest
+In this unspoken truth, I find my rest
+A gentle whisper tearing through the dark
+A tiny ember turning to a spark
+We dance around the secrets in the room
+And let our shadows tangle in the gloom
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
+All we need, all we need
+Don't let the morning wash the night away
+So tell me all the things you cannot say
+Before the morning steals the night away
+The walls are listening to every sigh
+I watch the constellations in your eye
+I promise you, Sayed will hold you tight
+And be your shelter through the fading light
+Just keep your eyes on mine
+We are crossing over every hidden line
+So tell me all the things you cannot say
+Before the morning steals the night away
+This bitter pillow talk now is all we need
+To break the walls and let our hearts be freed
